@@ -1,0 +1,338 @@
+<!doctype html>
+<html>
+<head>
+<title>  Visit in Barcelona </title>
+ <style type="text/css">
+ body{
+background-color:black	; 
+ }
+ #shruti{ 
+ height:100vh;
+
+background-image:url("barcelona night view.jpg");
+background-position:center;
+background-size:cover;
+
+background-attachment:fixed; 
+padding-top:1.2rem 
+}
+#name{
+color:white;
+font-size:4rem;
+font-family:summary;
+letter-spacing:0.1;
+
+}
+#shruti2{
+  width: 1248px;
+  height: 50px;
+  text-align:center;
+  align:center;
+  background: red;
+  position: relative;
+  animation: myfirst 5s infinite;
+  animation-direction: normal;
+}
+@keyframes myfirst {
+  0%   {background: orange; left: 0px; right: 0px; left: 0px;}
+  25%  {background: yellow; left: 800px; right: 0px; left: 0px;}
+  50%  {background: blue; left: 800px; right: 800px; left: 0px;}
+  75%  {background: green; left: 0px; right: 800px; left: 0px;}
+  100% {background: red; left: 0px; right: 0px; left: 0px;}
+}
+.horizontal-list {
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+
+
+.horizontal-list li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.text-center {
+    text-align: center;
+}
+#about {
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+#my-image {
+    height: 12rem;
+    width: 12rem;
+    margin: auto;
+    margin-top: -17vh;
+}
+
+#my-image img {
+    height: 100%;
+    width: 100%;
+    
+    border: 3px solid white;
+    box-shadow: 1px 1px 10px 2px lightgrey;
+}
+
+#about-para {
+    background-color:pink;
+	padding: 10px;
+    width: 70%;
+    height: 50%;
+	margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: grey;
+	line-height: 28px;
+    font-weight: 100;
+    font-size: 1.1rem;
+}
+
+#name2{
+color:white;
+font-size:3rem;
+font-family:summary;
+
+
+}
+
+#youtube {
+    height:10vh;
+    width:10vh
+  
+}
+
+#my-image3 img {
+    height: 10%;
+    width: 40%;
+    
+    border: 3px solid white;
+    box-shadow: 1px 1px 10px 2px lightgrey;
+
+
+}
+
+
+
+ </style>
+ </head>
+ <body>
+
+ 
+ <header id="shruti">
+ <br>
+ <nav>
+
+            <ul class="horizontal-list text-center nav-menu">
+                <li>
+                    <a href="file:///C:/Users/SHRUTI/Documents/New%20folder/New%20folder%20(3)/visit%20to%20europe.html"> Home page </a>
+                </li>
+                <li>
+                    <a href="#about"> Cities</a>
+                </li>
+                <li>
+                    <a href="#skills">  </a>
+                </li>
+                <li>
+                    <a href="#shruti4">Middle section</a>
+                </li>
+                <li>
+                    <a href="#shruti5">Images</a>
+                </li>
+            </ul>
+        </nav>
+ <h1 id=name><b><i><p style="text-align:center; font-size:100%; font-family:verdana">----------Visit To Barcelona---------</p></i></b></h1>
+ <br>
+ <br>
+ <div id=shruti2>
+ <h2><i><p style="color:pink; font-size:100%">We Travel Not To Escape Life But For Life Not Escape Us</p> </i></h2>
+</header>
+<main>
+
+        <section id="about">
+            <div id="my-image">
+                <img src="barcelona day view.jpg"></div>
+				<p id=about-para>Catalonia's vibrant capital, Barcelona is a stunning seaside city that flaunts her beauty and sunny lifestyle. Gorgeous scenery, breathtaking architecture, and superb cultural attractions make for an alluring destination. Of course, the balmy Mediterranean climate adds to the charm.
+
+Barcelona has an atmospheric medieval quarter, the Barri Gòtic, with an almost magical old-world ambience, but it's even more famous for its Modernist architecture. Antoni Gaudí left a lasting mark on Barcelona with his avant-garde Surrealist buildings; several are UNESCO listed.
+
+After all the sightseeing, tourists will want to simply relax and soak up the city's joyous vibe. Visitors will enjoy strolling down La Rambla, where the locals hang out; sunbathing at the sandy beaches near the harbor; and lingering over leisurely meals on outdoor terraces.
+
+One of the best ways to discover Barcelona is by wandering aimlessly and stumbling upon hidden side streets with small cafés or stopping to relax at peaceful town squares, where street musicians strum melodies on Spanish guitars. Delightful surprises abound at every turn.
+
+Learn about the best places to visit and things to do with our list of the top attractions in Barcelona. </p>
+          </section><br>
+		  <hr>
+ <h1 id=name2><b><i><p style="text-align:center; font-size:100%; font-family:verdana">Top Six(6)places To Visit In Rome</p></i></b></h1>
+ <hr>
+ 
+<div id=shruti2>
+ <h2><i><p style="color:pink; font-size:100%">We Travel Not To Escape Life But For Life Not Escape Us</p> </i></h2>
+ <hr>
+ <br>
+ <h1 style="color:white">Basílica de la Sagrada Família</h1><br><br>
+ 
+<section id="about">
+           <aside> <div id="my-image3">
+                <img src="Basílica de la Sagrada Família.jpg" style="align:center">
+				
+				</div></aside></section> <br><br>
+				<p style="font-size:150%; color:white">The Basílica de la Sagrada Família stands in the northern part of the city, dominating its surroundings with its 18 spindly towers soaring high above all the other buildings. One of Europe's most unconventional churches, this amazing monument is designated as a UNESCO World Heritage Site.
+
+The most important Catalan architect of modern times, Antoni Gaudí was commissioned in 1883 to design this Basilica as a neo-Gothic church. But instead of following the plans, he created a signature example of his famous surrealistic Art Nouveau architecture. He had no firm ideas in mind, preferring to alter and add to the plans as work progressed.
+
+Although Gaudí had originally forecast between 10 and fifteen years, the church was never completed during his lifetime. Since 1926, several other architects have continued work on the Basilica based on Gaudí's plans. In 2010, the main nave was completed, and the Basilica was consecrated by Pope Benedict XVI (although construction is still ongoing).
+
+Visitors are first struck by the lavish exterior with its expressive Nativity facade depicting the birth of Jesus, and the evocative Passion facade that illustrates the suffering, death, and resurrection of Jesus.
+
+Even though the Basilica is unfinished, tourists may visit the interior to admire the awe-inspiring sacred space and its dazzling artworks. The main nave of the sanctuary is an immense space of 90 meters long by 60 meters high. The ceiling sparkles with opulent decorative details, and colorful stained-glass windows allow ethereal light to flow in.
+<br><br>
+You can also go through vedio: <br>
+		  <a href="https://youtu.be/KS4QRvng9eA"><img src="youtube-logo.jpg"height="30vh" style="margin:20px; 
+    border: 3px solid black; "></a></p>
+          <br><hr><br><br>
+		  <h1 style="color:white">Casa Milà (La Pedrera)</h1><br><br>
+ 
+<section id="about">
+           <aside> <div id="my-image3">
+                <img src="Casa Milà (La Pedrera).jpg">
+				
+				</div></aside></section> <br><br>
+				<p style="font-size:150%; color:white">In the Eixample district off the elegant boulevard of Passeig de Gràcia, the UNESCO-listed Casa Milà is Antoni Gaudí's most famous secular building. Casa Milà is also affectionately known as "La Pedrera," which translates to "The Stone Quarry" because the building resembles an open quarry.
+
+Built between 1906 and 1912, this flamboyant avant-garde dwelling looks more like a sculpture than a functional building. Every line of the natural stone facade is curved, with rounded windows and metal balcony railings twining around in plant-like shapes. Even the roof has an undulating shape complemented by the decorative chimneys.
+
+The entrance to the building is on the Carrer de Provença, through a remarkable wrought-iron gate that leads to an inner courtyard. The building is supported by ribbed arches that were designed for load-bearing purposes, a feature that reveals Gaudí's genius as a structural engineer.
+
+Visitors may walk around the roof terrace for an up-close look at the strangely shaped mosaic-adorned chimneys. The roof area also rewards visitors with sensational views across the city, with the outlook extending to the Basílica de la Sagrada Família in the distance.
+		 <br><br> You can also go through vedio: <br>
+		  <a href="https://youtu.be/Q18lNtqxrDc"><img src="youtube-logo.jpg"height="30vh" style="margin:20px; 
+    border: 3px solid black; "></a></p>
+	<br><hr><br><br>
+		  <h1 style="color:white">Palau de la Música Catalana (Palace of Catalan Music)
+</h1><br><br>
+ 
+<section id="about">
+           <aside> <div id="my-image3">
+                <img src="Palau de la Música Catalana (Palace of Catalan Music).jpg">
+				
+				</div></aside></section> <br><br>
+				<p style="font-size:150%; color:white">Built between 1905 and 1908 as a concert hall for the choral society Orfeó Català, The Palau de la Música Catalana was designed by the architect Lluís Domènech i Montaner, in the Catalan Modernist style. The UNESCO-listed building exemplifies an ornate Art Nouveau decorative style. The facade is a profusion of intricate mosaics, sculptural elements, and exquisite ironwork.
+
+The interior décor is just as colorful and fanciful as the outside, with a marvelous Concert Auditorium that provides an inspiring setting for musical performances. The concert hall, which seats about 2,200 people, is the only auditorium in Europe illuminated during daylight hours entirely by natural light.
+
+Eye-catching artworks cover every square inch of the walls and ceiling. The walls on two sides consist primarily of stained-glass panes. The ceiling features an enormous skylight of stained glass designed by Antoni Rigalt whose centerpiece is an inverted dome in shades of gold surrounded by blue that suggests the sun and the sky. Elaborate sculptures frame the concert stage.
+
+It is possible to see the interior of the Palau de la Música Catalana outside of concert performances by taking a guided tour.
+
+The Palau de la Música Catalana has a gift shop and a café-restaurant, the Cafè Palau, which serves breakfast, lunch, and afternoon refreshments. The Cafè Palau has a pleasant outdoor dining terrace on the Plaça del Palau.<br><br>
+You can also go through vedio: <br>
+		  <a href="https://youtu.be/lK2zoefj2Co"><img src="youtube-logo.jpg"height="30vh" style="margin:20px; 
+    border: 3px solid black; "></a></p><hr>
+	<div id="shruti4"></div>
+ 
+	
+	<div id=shruti2>
+ <h2><i><p style="color:pink; font-size:100%">We Travel Not To Escape Life But For Life Not Escape Us</p> </i></h2></div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <br><hr><br><br>
+		  <h1 style="color:white">Parc Güell: Gaudí's Surrealist Park
+
+</h1><br><br>
+ 
+<section id="about">
+           <aside> <div id="my-image3">
+                <img src="Parc guell.jpg">
+				
+				</div></aside></section> <br><br>
+				<p style="font-size:150%; color:white">Colorful, cheerful, and full of whimsy, this beautifully designed 17-hectare park is a designated UNESCO World Heritage Site. Created between 1900 and 1914, the Park Güell includes 12 acres of landscaped gardens featuring Surrealist architectural elements created by Antoni Gaudí and eight acres of pristine woodlands (pine forest and olive groves).
+
+Splendid fountains, viaducts, grottoes, a colonnaded hall, winding staircases, and semi-closed conversation seats are scattered throughout the garden space. These creative structures are decorated in multicolored ceramic fragments.
+
+There are picnic areas and a spectacular terrace that offers panoramic views of the city and the sea. Gaudí himself loved this area of the city (the Gràcia district), and his home was located here.
+
+Within the Park Güell is the Casa Museu Gaudí (Gaudí House Museum) where Gaudí lived for nearly two decades. The museum educates visitors about Gaudí's life and architectural work. The collection includes decorative objects and furniture, designed by Gaudí.
+
+Address: Carrer d'Olot, Barcelona
+ <br><br>You can also go through vedio:<br>
+		  <a href="https://youtu.be/Deq8vfb71kE"><img src="youtube-logo.jpg"height="30vh" style="margin:20px; 
+    border: 3px solid black; "></a></p>
+ 
+ <br><hr><br><br>
+		  <h1 style="color:white">Casa Batlló
+
+</h1><br><br>
+ 
+<section id="about">
+           <aside> <div id="my-image3">
+                <img src="casa batllo.jpg">
+				
+				</div></aside></section> <br><br>
+				<p style="font-size:150%; color:white">Yet another amazing Gaudí creation, the UNESCO-listed Casa Batlló is one of the most characteristic Modernist buildings in Barcelona. The fantastical mansion was designed as a private residence for the textile manufacturer Josep Batlló i Casanovas. With its freely swinging shapes and ornamental facade, this dreamlike building looks like a castle from a surreal fairy tale.
+
+Most of the design details depart completely from any architectural precedent. The window frame on the first floor is bordered by swinging shapes that suggest plants, others resemble entrances to caves. On the facade, decorative glazed ceramic tiles in green, blue, and ochre colors add to the flamboyance. The wave-shaped roof, like that of Casa Milà, has numerous richly adorned chimneys.
+
+Gaudí also created the interior decorations, which can be seen in the Casa Museu Gaudí in the Güell Park.
+
+For those seeking a superb gourmet meal, the elegant Moments Restaurant, with two Michelin stars, is just a few steps away at 38 Passeig de Gràcia in the Mandarin Oriental, Barcelona. This upscale fine-dining restaurant serves modern gastronomic Catalan cuisine prepared from seasonal ingredients.	<br> <br>You can also go through vedio:<br> 
+		  
+		  <a href="https://youtu.be/j31eZTrW0Ss"><img src="youtube-logo.jpg"height="30vh" style="margin:20px; 
+    border: 3px solid black; "></a></p>
+ 
+ <br><hr><br><br>
+		  <h1 style="color:white">The Magic Fountain of Montjuïc
+
+</h1><br><br>
+ 
+<section id="about">
+           <aside> <div id="my-image3">
+                <img src="magic mountain.jpg">
+				
+				</div></aside></section> <br><br>
+				<p style="font-size:150%; color:white">One of the favorite things to do in Barcelona at night is to watch The Magic Fountain of Montjuïc, at the beginning of Avinguda Maria Cristina in the Montjuïc neighborhood. The large Art Deco fountain was designed by Carles Buigas for the 1929 International Exhibition, which took place in Montjuïc.
+
+The Magic Fountain of Montjuïc delights all ages with its choreographed light and fountain shows that are set to music. The shows take place Thursday through Sunday during the summer and Friday and Saturday in the off-season. The evening shows last for a few hours, with music sessions every half hour.
+
+Address: Plaça de Carles Buïgas 1, Barcelona<br><br>You can also go through vedio:<br>	 
+
+		 <a href="https://youtu.be/8DFHyxlJdn0"><img src="youtube-logo.jpg"height="30vh" style="margin:20px; 
+    border: 3px solid black; "></a></p><hr><hr><hr><br><h3 id="shruti5"><p style="background-color:#808080">Want To See More Images.</p><a href="https://www.google.com/search?q=images+of+++places+of+barcelona&tbm=isch&ved=2ahUKEwj5rc2g9M_1AhUJDLcAHRgiCm4Q2-cCegQIABAA&oq=images+of+++places+of+barcelona&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoFCAAQgAQ6BggAEAcQHjoGCAAQCBAeOgQIABAYOgYIABAFEB5Q4gZYziJgzD1oAHAAeACAAYcEiAH8GZIBCjItMTAuMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ToDxYfnONImY3LUPmMSo8AY&bih=544&biw=1280&rlz=1C1CHBD_enIN989IN989"><h3 style="background-color:#808080">CliCK Here</h3></a>
+	<div id=shruti2>
+ <h2><i><p style="color:pink; font-size:100%">We Travel Not To Escape Life But For Life Not Escape Us</p> </i></h2>
+	<hr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </body>
+ </html>
